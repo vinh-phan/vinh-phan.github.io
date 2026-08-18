@@ -12,9 +12,9 @@ I am a PhD Candidate at the Erasmus School of Economics (Erasmus University Rott
 My supervisors are [Teresa Marreiros Bago d'Uva](https://www.eur.nl/en/people/teresa-marreiros-bago-duva) and [Hans van Kippersluis](https://sites.google.com/site/hansvankippersluis/)
 
 ## Current Projects
-The gene $$\times$$ environment effects of air pollution on educational attainment: a multiverse analysis.
+Genetics and the cognitive costs of air pollution. 
 
-The robustness of weather instruments in uncovering the causal effects of air pollution.
+The robustness of weather instruments in uncovering the causal effects of air pollution *with [Fiorella Parra-Mujica](https://www.eur.nl/en/people/fiorella-parra-mujica)*
 
 The welfare cost of uncertainty in childcare benefits *with [Teresa Marreiros Bago d'Uva](https://www.eur.nl/en/people/teresa-marreiros-bago-duva) and [Hans van Kippersluis](https://sites.google.com/site/hansvankippersluis/)*
 
