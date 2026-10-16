@@ -12,7 +12,7 @@ I am a PhD Candidate at the Erasmus School of Economics (Erasmus University Rott
 My supervisors are [Teresa Marreiros Bago d'Uva](https://www.eur.nl/en/people/teresa-marreiros-bago-duva) and [Hans van Kippersluis](https://sites.google.com/site/hansvankippersluis/)
 
 ## Current Projects
-Genetics and the cognitive costs of air pollution. Link to paper [here](/files/JMP_20260706.pdf).
+Genetics and the cognitive costs of air pollution. Link to paper [here](/files/JMP.pdf).
 
 The robustness of weather instruments in uncovering the causal effects of air pollution *with [Fiorella Parra-Mujica](https://www.eur.nl/en/people/fiorella-parra-mujica)*
 
