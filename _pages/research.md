@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Work in Progress
-Genetics and the cognitive costs of air pollution. 
+Genetics and the cognitive costs of air pollution. Link to paper [here](/files/JMP.pdf).
 
 The robustness of weather instruments in uncovering the causal effects of air pollution *with [Fiorella Parra-Mujica](https://www.eur.nl/en/people/fiorella-parra-mujica)*
 
