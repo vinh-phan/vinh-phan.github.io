@@ -7,4 +7,4 @@ redirect_from:
   - /curriculum-vitae
 ---
 
-My full CV can be found [here](/files/CV.pdf).  
+My full CV can be found [here](/files/CV_2026_10_16.pdf).  
